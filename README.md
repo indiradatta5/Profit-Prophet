@@ -8,7 +8,6 @@ Welcome to **Profit Prophet**, a cutting-edge web app designed to empower users 
 - **Real-Time Stock Prices 📉**: Stay updated with real-time stock price data and visualize trends with candlestick and line charts.
 - **Stock Price Prediction 🔍**: Leverage state-of-the-art machine learning techniques using Facebook's Prophet to forecast future stock prices and analyze forecast components.
 - **Custom Portfolio Management 🧰**: Easily manage and edit your portfolio with dynamic input and weight allocation for better visualization and comparison.
-- **About Section ℹ️**: Learn more about the creators and the purpose of the app.
 
 ## **Getting Started 🚀**
 
