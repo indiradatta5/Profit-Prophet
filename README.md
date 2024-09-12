@@ -43,7 +43,8 @@ To run **Profit Prophet** locally, follow these steps:
 
 ## **Contributors 👥**
 
-- **Indira Datta** 
+- **Indira Datta** [GitHub Profile](https://github.com/indiradatta) | [LinkedIn](https://www.linkedin.com/in/indira-datta-/) | [Email](mailto:indiradatta5@gmail.com)
+
 
 ## **Future Improvements 🔧**
 
