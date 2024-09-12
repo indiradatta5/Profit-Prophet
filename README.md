@@ -44,7 +44,6 @@ To run **Profit Prophet** locally, follow these steps:
 ## **Contributors 👥**
 
 - **Indira Datta** 
-- **Rathan Rishi Mohanasundaram**
 
 ## **Future Improvements 🔧**
 
