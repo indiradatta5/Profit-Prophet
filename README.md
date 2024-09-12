@@ -52,3 +52,7 @@ To run **Profit Prophet** locally, follow these steps:
 - Implement more machine learning models for stock price prediction.
 - Add options for multiple portfolio management.
 - Enhance UI/UX for a more interactive user experience.
+
+
+**Created**:
+June 2024
